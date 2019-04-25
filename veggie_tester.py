@@ -1,3 +1,5 @@
+#!/usr/bin/env python
+
 from httplib2 import Http
 import json
 import sys
